@@ -1,0 +1,9 @@
+Start
+Declare variables t,n,i
+Declare a string
+Initialize the variables int the string 
+Check if the elements in string s after cokie it is needed to follow with milk
+If so
+Print  YES
+If not print No 
+End
